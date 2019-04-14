@@ -1,0 +1,12 @@
+{
+    "name": "c",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "dev": "gulp dev",
+        "bulid": "gulp bulid"
+    },
+    "author": "",
+    "license": "ISC"
+}
